@@ -11,6 +11,7 @@
 		<module>rsw-app</module>
 		<module>rsw-conf</module>
 		<module>rws-impl</module>
+		<module>rsw-impl</module>
 	</modules>
 
 	<build>

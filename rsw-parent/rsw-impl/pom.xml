@@ -5,6 +5,6 @@
     <artifactId>rsw-parent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>rws-impl</artifactId>
+  <artifactId>rsw-impl</artifactId>
   <name>${project.artifactId}</name>
 </project>

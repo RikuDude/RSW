@@ -1,4 +1,4 @@
-package de.solutioazubi.rsw.gameelemnets;
+package de.solutioazubi.rsw.gameelements;
 
 import java.util.List;
 import java.util.stream.Collectors;
@@ -6,7 +6,7 @@ import java.util.stream.Collectors;
 import de.solutioazubi.rsw.player.Player;
 
 public class Planet {
-	
+
 	// FIELDS
 	private String name;
 	private Player controllingPlayer;
@@ -52,6 +52,5 @@ public class Planet {
 			controllingPlayer = null;
 		}
 	}
-	
 	
 }
